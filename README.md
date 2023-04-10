@@ -1,16 +1,10 @@
-# pratic
+#To Practice
 
-A new Flutter project.
+Esse aplicativo é uma "app teste", estou desenvolvendo ele mais para treinar design responsivos (no momento, só a tela de login foi desenvolvida).
 
-## Getting Started
+Esse aplicativo é basicamente um clone, fui vendo videos e pesquisando ideias para me inspirar, e acabei curtindo um design simples e de certa forma facil.
 
-This project is a starting point for a Flutter application.
+Como comentado anteriormente, essa aplicação é só um desenvolvimento focado em praticar design e design responsivo, contudo, ele não está totalmente pronto.
 
-A few resources to get you started if this is your first Flutter project:
+Status do projeto: EM ANDAMENTO
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
